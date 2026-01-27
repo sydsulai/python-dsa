@@ -8,3 +8,8 @@ Basic Python Operations and Time Complexity: [https://wiki.python.org/moin/TimeC
 
 1. Slicing works first at row level, You cannot take first column in all rows like below
 a[i+1:9][0], It needs to be done like [a[row][j] for row in range(1, 9)]
+
+# OOD Design 
+Parent Page Link: [https://www.oodesign.com](https://www.oodesign.com)
+## Singleton: 
+[https://www.oodesign.com/singleton-pattern](https://www.oodesign.com/singleton-pattern)
