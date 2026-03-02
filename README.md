@@ -9,6 +9,18 @@ Basic Python Operations and Time Complexity: [https://wiki.python.org/moin/TimeC
 1. Slicing works first at row level, You cannot take first column in all rows like below
 a[i+1:9][0], It needs to be done like [a[row][j] for row in range(1, 9)]
 
+1. In case of hashing use 'get' method in dict => has_map.get(key, default_value)
+
+1. **ASCII VALUE** you can use like this ord("a")
+
+1. **Recursion** -  TimeComplexity = O(N+1) and SpaceComplexity = O(N+1)
+
+1. **Recursion Types**
+
+- Head Recursion = JOb First, Func Call second
+- Tail Recursion = Func Call First, Job Second
+- Functional Recursion = Returns something during every call in stack.
+
 # OOD Design 
 Parent Page Link: [https://www.oodesign.com](https://www.oodesign.com)
 ## Singleton: 

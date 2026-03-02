@@ -1,3 +1,7 @@
 basic/*.py
+hashing/*.py
 design-patterns/*.py
 machine-coding/*.py
+leetcode_testing.py
+recursion/*.py
+sorting/*.py
